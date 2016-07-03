@@ -1,0 +1,7 @@
+*.pyc
+
+# Python virtual env
+/venv
+
+# Test output files
+/out
